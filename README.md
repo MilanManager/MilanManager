@@ -4,7 +4,5 @@ Milan Manager is a free-to-use application that simplifies the configuration, ma
 
 Learn more:
 
-https://www.dbaudio.com/global/en/milan-ready-for-tomorrow/
-
-https://www.l-acoustics.com/products/milan-manager/
+https://milanmanager.com/
 
